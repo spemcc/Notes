@@ -1,2 +1,2 @@
 
-1. [Templates](https://github.com/spemcc/Notes/C-plus-plus/templates.md)
+1. [Templates](https://github.com/spemcc/Notes/blob/master/C-plus-plus/templates.md)
