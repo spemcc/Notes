@@ -12,10 +12,12 @@ compilers and linkers.
   * Non-Type parameters
     * Constant values that can be determined at compile or link time 
   * Template template parameters
+    * ```<template <template <class cantuse> class T>> ```
+      * This defines a template that takes a template. 
 
 4. **_typename_** keyword outside of template parameter: Tells compiler that it is a type. 
 ```c++
 Foo<T>::x*y; // Is this a type or multiplication?
 ```
-5.
+5
 
