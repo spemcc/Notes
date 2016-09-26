@@ -1,4 +1,4 @@
-``c++
+```c++
 	template<size_t N>
 	void check_bounds_compile_time(int (&ar1)[N], int (&ar2)[N])
 	{
