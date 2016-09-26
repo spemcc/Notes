@@ -1,10 +1,10 @@
 ``c++
-template< size_t N>
-void check_bounds_compile_time(int (&ar1)[N], int (&ar2)[N])
-{
+	template< size_t N>
+	void check_bounds_compile_time(int (&ar1)[N], int (&ar2)[N])
+	{
   
-  ...
-}
+  		...
+	}
 
 	int ar[10];
 	int ar2[10];
